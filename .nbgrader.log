@@ -1,0 +1,314 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:3001/?token=d5704b7b18630b4f7c427210bd24c7e4f92fc9453e996cfd
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No web browser found: could not locate runnable browser.
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:3001/?token=d5704b7b18630b4f7c427210bd24c7e4f92fc9453e996cfd
+[NotebookApp | INFO] 302 GET / (192.168.11.179) 0.84ms
+[NotebookApp | INFO] interrupted
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:3001/?token=c8d2ad16edf812a0d852989c23ee8393acc14f542badffa9
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No web browser found: could not locate runnable browser.
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:3001/?token=c8d2ad16edf812a0d852989c23ee8393acc14f542badffa9
+[NotebookApp | INFO] 302 GET / (192.168.11.179) 0.48ms
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:3001/?token=6ae7b944ce3a8d5f6b0e9d3c1dea3ad48f99081ce272ce86
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No web browser found: could not locate runnable browser.
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:3001/?token=6ae7b944ce3a8d5f6b0e9d3c1dea3ad48f99081ce272ce86
+[NotebookApp | INFO] 302 GET / (192.168.11.179) 0.46ms
+[NotebookApp | INFO] 302 GET / (192.168.11.179) 0.44ms
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/iterating-list-variable-name.png (192.168.11.179): No such file or directory: .guides/img/iterating-list-variable-name.png
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/iterating-list-variable-name.png (192.168.11.179) 6.26ms referer=https://spell-radical-3000.codio.io/notebooks/Example%20Lesson.ipynb
+[NotebookApp | INFO] Starting buffering for a14e09c1-3055-4615-acdb-94fdc4cd2eeb:f375eda806dc4ce79c2c318097412d0c
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/iterating-list-variable-name.png (192.168.11.179): No such file or directory: .guides/img/iterating-list-variable-name.png
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/iterating-list-variable-name.png (192.168.11.179) 1.13ms referer=https://spell-radical-3000.codio.io/notebooks/Example%20Lesson.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.11.179) 0.91ms
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Starting buffering for a14e09c1-3055-4615-acdb-94fdc4cd2eeb:8bddffb2c7f547df8dad0346119e9c7d
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.11.179) 1.19ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.226) 0.63ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.226) 0.68ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/Example Lesson.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/Example Lesson.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.226) 0.66ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:3002/?token=66cf614615076555effce1b8b1a4a56a3c58948eb3293569
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No web browser found: could not locate runnable browser.
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:3002/?token=66cf614615076555effce1b8b1a4a56a3c58948eb3293569
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.226) 0.63ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.11.179) 0.57ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.11.179) 0.59ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.226) 0.57ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.226) 0.60ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.11.179) 0.61ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] Starting buffering for a14e09c1-3055-4615-acdb-94fdc4cd2eeb:da0db64fe55a434486a5591e6af7cbb4
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.11.179) 0.61ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] Starting buffering for a14e09c1-3055-4615-acdb-94fdc4cd2eeb:2f1e2582ccd54e66918ca08af6a752dc
+[NotebookApp | INFO] 302 GET / (192.168.11.179) 0.43ms
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.11.179) 0.62ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] Starting buffering for a14e09c1-3055-4615-acdb-94fdc4cd2eeb:9e37e58314874ebf8e2e86401c94e0f3
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: aefb7358-79e0-4cf7-be5a-5ae4f83142b1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel aefb7358-79e0-4cf7-be5a-5ae4f83142b1
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Starting buffering for aefb7358-79e0-4cf7-be5a-5ae4f83142b1:dec82e69cfd94b75a5d7cdec4193d4b5
+[NotebookApp | WARNING] 404 GET /notebooks/img/iterating-list-variable-name.png (192.168.11.179): No such file or directory: img/iterating-list-variable-name.png
+[NotebookApp | WARNING] 404 GET /notebooks/img/iterating-list-variable-name.png (192.168.11.179) 1.17ms referer=https://spell-radical-3000.codio.io/notebooks/Example%20Lesson.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] 302 GET /notebooks/.images/iterating-list-variable-name.png (192.168.11.179) 0.86ms
+[NotebookApp | INFO] Refusing to serve hidden file, via 404 Error, use flag 'ContentsManager.allow_hidden' to enable
+[NotebookApp | WARNING] 404 GET /files/.images/iterating-list-variable-name.png (192.168.11.179) 1.33ms referer=https://spell-radical-3000.codio.io/notebooks/Example%20Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/.images/iterating-list-variable-name.png (192.168.11.179) 0.88ms
+[NotebookApp | INFO] Refusing to serve hidden file, via 404 Error, use flag 'ContentsManager.allow_hidden' to enable
+[NotebookApp | WARNING] 404 GET /files/.images/iterating-list-variable-name.png (192.168.11.179) 1.24ms referer=https://spell-radical-3000.codio.io/notebooks/Example%20Lesson.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | WARNING] 404 GET /notebooks/img/iterating-list-variable-name.png (192.168.11.179): No such file or directory: img/iterating-list-variable-name.png
+[NotebookApp | WARNING] 404 GET /notebooks/img/iterating-list-variable-name.png (192.168.11.179) 1.60ms referer=https://spell-radical-3000.codio.io/notebooks/Example%20Lesson.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/.images/iterating-list-variable-name.png (192.168.11.179): No such file or directory: .images/iterating-list-variable-name.png
+[NotebookApp | WARNING] 404 GET /notebooks/.images/iterating-list-variable-name.png (192.168.11.179) 1.47ms referer=https://spell-radical-3000.codio.io/notebooks/Example%20Lesson.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.11.179) 0.90ms
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Starting buffering for a14e09c1-3055-4615-acdb-94fdc4cd2eeb:c1addc0fa3df4fa9bdf953e7d3a975b1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel aefb7358-79e0-4cf7-be5a-5ae4f83142b1
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.11.179) 0.89ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.11.179) 0.91ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.11.179) 0.70ms
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.11.179) 0.86ms
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/img/markdown-buttons.png (192.168.11.179): No such file or directory: img/markdown-buttons.png
+[NotebookApp | WARNING] 404 GET /notebooks/img/markdown-buttons.png (192.168.11.179) 1.52ms referer=https://spell-radical-3000.codio.io/notebooks/Setting%20Up%20Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.11.179) 0.89ms
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.11.179) 1.40ms
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/jupyter-json (192.168.11.179): No such file or directory: jupyter-json
+[NotebookApp | WARNING] 404 GET /notebooks/jupyter-json (192.168.11.179) 1.93ms referer=https://spell-radical-3000.codio.io/notebooks/Setting%20Up%20Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/jupyter-json.png (192.168.11.179): No such file or directory: jupyter-json.png
+[NotebookApp | WARNING] 404 GET /notebooks/jupyter-json.png (192.168.11.179) 2.46ms referer=https://spell-radical-3000.codio.io/notebooks/Setting%20Up%20Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-json.png (192.168.11.179) 0.84ms
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/two-buttons.png (192.168.11.179) 0.89ms
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-server.png (192.168.11.179) 1.11ms
+[NotebookApp | WARNING] 404 GET /notebooks/img/empty-notebook.png (192.168.11.179): No such file or directory: img/empty-notebook.png
+[NotebookApp | WARNING] 404 GET /notebooks/img/empty-notebook.png (192.168.11.179) 1.40ms referer=https://spell-radical-3000.codio.io/notebooks/Setting%20Up%20Codio.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.11.179) 1.01ms
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Shutting down on /api/shutdown request.
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: a14e09c1-3055-4615-acdb-94fdc4cd2eeb
+[NotebookApp | INFO] Kernel shutdown: aefb7358-79e0-4cf7-be5a-5ae4f83142b1
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:3001/?token=ba0a6cd60868af9c5af2dddc5e96f4f57176046c2d84e3bf
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No web browser found: could not locate runnable browser.
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:3001/?token=ba0a6cd60868af9c5af2dddc5e96f4f57176046c2d84e3bf
+[NotebookApp | INFO] 302 GET / (192.168.11.179) 0.67ms
+[NotebookApp | INFO] 302 GET / (192.168.11.179) 0.50ms
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 904c6ce3-6b89-4b13-a92f-24d8077684da
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 904c6ce3-6b89-4b13-a92f-24d8077684da
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200325140441 (192.168.11.179) 7.10ms referer=https://spell-radical-3000.codio.io/notebooks/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Saving file at /Code Visualizer.ipynb
+[NotebookApp | INFO] Starting buffering for 904c6ce3-6b89-4b13-a92f-24d8077684da:1f0ed6b2735745b98e409c19208141ca
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 904c6ce3-6b89-4b13-a92f-24d8077684da
+[NotebookApp | INFO] Restoring connection for 904c6ce3-6b89-4b13-a92f-24d8077684da:1f0ed6b2735745b98e409c19208141ca
+[NotebookApp | INFO] Saving file at /Code Visualizer.ipynb
+[NotebookApp | WARNING] WebSocket ping timeout after 119885 ms.
+[NotebookApp | INFO] Starting buffering for 904c6ce3-6b89-4b13-a92f-24d8077684da:1f0ed6b2735745b98e409c19208141ca
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 904c6ce3-6b89-4b13-a92f-24d8077684da
+[NotebookApp | INFO] Restoring connection for 904c6ce3-6b89-4b13-a92f-24d8077684da:1f0ed6b2735745b98e409c19208141ca
+[NotebookApp | INFO] Saving file at /Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /Code Visualizer.ipynb
+[NotebookApp | WARNING] WebSocket ping timeout after 119946 ms.
+[NotebookApp | INFO] Starting buffering for 904c6ce3-6b89-4b13-a92f-24d8077684da:1f0ed6b2735745b98e409c19208141ca
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 904c6ce3-6b89-4b13-a92f-24d8077684da
+[NotebookApp | INFO] Restoring connection for 904c6ce3-6b89-4b13-a92f-24d8077684da:1f0ed6b2735745b98e409c19208141ca
+[NotebookApp | INFO] Saving file at /Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /Code Visualizer.ipynb
+[NotebookApp | WARNING] WebSocket ping timeout after 119961 ms.
+[NotebookApp | INFO] Starting buffering for 904c6ce3-6b89-4b13-a92f-24d8077684da:1f0ed6b2735745b98e409c19208141ca
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 904c6ce3-6b89-4b13-a92f-24d8077684da
+[NotebookApp | INFO] Restoring connection for 904c6ce3-6b89-4b13-a92f-24d8077684da:1f0ed6b2735745b98e409c19208141ca
+[NotebookApp | WARNING] WebSocket ping timeout after 119685 ms.
+[NotebookApp | INFO] Starting buffering for 904c6ce3-6b89-4b13-a92f-24d8077684da:1f0ed6b2735745b98e409c19208141ca
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/visualizer-code.png (192.168.11.179): No such file or directory: .guides/img/visualizer-code.png
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/visualizer-code.png (192.168.11.179) 1.51ms referer=https://spell-radical-3000.codio.io/notebooks/Code%20Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /Code Visualizer.ipynb
+[NotebookApp | INFO] Kernel started: 7a0f2b01-ef84-449b-8595-e07c5c3baba5
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.11.179) 0.74ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7a0f2b01-ef84-449b-8595-e07c5c3baba5
+[NotebookApp | WARNING] WebSocket ping timeout after 90005 ms.
+[NotebookApp | INFO] Starting buffering for 7a0f2b01-ef84-449b-8595-e07c5c3baba5:647598ba34d74587b4311710fd6818f0
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/visualizer-code.png (192.168.11.179): No such file or directory: .guides/img/visualizer-code.png
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/visualizer-code.png (192.168.11.179) 1.23ms referer=https://spell-radical-3000.codio.io/notebooks/Code%20Visualizer.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 904c6ce3-6b89-4b13-a92f-24d8077684da
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 904c6ce3-6b89-4b13-a92f-24d8077684da
+[NotebookApp | INFO] Kernel shutdown: 7a0f2b01-ef84-449b-8595-e07c5c3baba5
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.11.179) 0.41ms
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:3001/?token=77f5c9dfc25990d672553b8e77d386d6bf249f9895e44b69
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No web browser found: could not locate runnable browser.
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:3001/?token=77f5c9dfc25990d672553b8e77d386d6bf249f9895e44b69
+[NotebookApp | INFO] 302 GET / (192.168.11.179) 0.41ms
+[NotebookApp | INFO] Kernel started: 25fc217d-3b2a-472a-918a-2115c4584c8d
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/visualizer-code.png (192.168.11.179): No such file or directory: .guides/img/visualizer-code.png
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/visualizer-code.png (192.168.11.179) 6.72ms referer=https://spell-radical-3000.codio.io/notebooks/Code%20Visualizer.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 25fc217d-3b2a-472a-918a-2115c4584c8d
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/visualizer-next.png (192.168.11.179): No such file or directory: .guides/img/visualizer-next.png
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/visualizer-next.png (192.168.11.179) 1.63ms referer=https://spell-radical-3000.codio.io/notebooks/Code%20Visualizer.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/visualizer-code.png (192.168.11.179): No such file or directory: .guides/img/visualizer-code.png
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/visualizer-code.png (192.168.11.179) 1.16ms referer=https://spell-radical-3000.codio.io/notebooks/Code%20Visualizer.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/visualizer-button.png (192.168.11.179): No such file or directory: .guides/img/visualizer-button.png
+[NotebookApp | WARNING] 404 GET /notebooks/.guides/img/visualizer-button.png (192.168.11.179) 1.08ms referer=https://spell-radical-3000.codio.io/notebooks/Code%20Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /Code Visualizer.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.11.179) 0.91ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.11.179) 0.75ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.11.179) 0.67ms
+[NotebookApp | INFO] Saving file at /Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /Code Visualizer.ipynb
+[NotebookApp | INFO] Starting buffering for 25fc217d-3b2a-472a-918a-2115c4584c8d:5cf4ded126654d14ae23fbe3d3dac98f
+[NotebookApp | INFO] 302 GET /notebooks/img/two-buttons.png (192.168.11.179) 0.92ms
+[NotebookApp | INFO] Kernel started: 5f26fac1-dd56-4492-a5db-0cf778afa633
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.11.179) 0.91ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-server.png (192.168.11.179) 0.65ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-json.png (192.168.11.179) 1.19ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.11.179) 0.67ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.11.179) 0.75ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.11.179) 0.65ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.11.179) 0.63ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.11.179) 0.77ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.11.179) 0.64ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5f26fac1-dd56-4492-a5db-0cf778afa633
+[NotebookApp | INFO] Starting buffering for 5f26fac1-dd56-4492-a5db-0cf778afa633:b92c51eab1e6427685b7332f15f5b096

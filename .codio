@@ -1,0 +1,13 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "Start Jupyter": "jupyter notebook --port 3000"
+  },
+
+// Preview button configuration
+  "preview": {
+        "Show Notebooks": "https://{{domain3000}}/"
+  }
+}
