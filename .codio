@@ -3,7 +3,7 @@
 
 // Run button configuration
   "commands": {
-        "Start Jupyter": "jupyter notebook --port 3000"
+        
   },
 
 // Preview button configuration

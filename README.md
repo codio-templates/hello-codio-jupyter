@@ -1,10 +1,8 @@
-# Getting started
+    # Getting started
 This is a guide on how to get Jupyter up and running on Codio, as well as how to create auto-graded assignments. **Note**, this is not a tutorial on how to use Jupyter notebooks themselves.
 
 ## Staring the Jupyter Server
-In order to see the Jupyter notebooks, start the Jupyter server by clicking the `Start Jupyter` button above. This will open a terminal tab in Codio and start the server.
-
-![Start Jupyter](img/start-jupyter.png)
+The Jupyter stacks on Codio all start the Jupyter Notebook server when the project loads.
 
 ## Viewing the Notebooks
 To view the notebooks, click the button `Show Notebooks` above to open a new tab in Codio will all of the Jupyter notebooks associated with this project.

@@ -312,3 +312,368 @@
 [NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.11.179) 0.64ms
 [NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5f26fac1-dd56-4492-a5db-0cf778afa633
 [NotebookApp | INFO] Starting buffering for 5f26fac1-dd56-4492-a5db-0cf778afa633:b92c51eab1e6427685b7332f15f5b096
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 25fc217d-3b2a-472a-918a-2115c4584c8d
+[NotebookApp | INFO] Kernel shutdown: 5f26fac1-dd56-4492-a5db-0cf778afa633
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.93) 1.35ms
+[NotebookApp | INFO] Kernel started: 611faf3f-7246-49ec-9b19-ea8c305d8102
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 611faf3f-7246-49ec-9b19-ea8c305d8102
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.93) 0.87ms
+[NotebookApp | INFO] 302 GET /notebooks/img/two-buttons.png (192.168.10.93) 0.77ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.93) 0.61ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-server.png (192.168.10.93) 0.90ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.93) 0.63ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.93) 0.59ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.93) 0.64ms
+[NotebookApp | INFO] Kernel started: c68a5973-3714-4c18-b319-15cb07716ed7
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.93) 1.56ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.93) 1.05ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-json.png (192.168.10.93) 0.96ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c68a5973-3714-4c18-b319-15cb07716ed7
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.10.93) 0.71ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.10.93) 0.77ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.10.93) 0.63ms
+[NotebookApp | INFO] Kernel started: 852b55b1-380f-4327-b407-5f6917d2da90
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 852b55b1-380f-4327-b407-5f6917d2da90
+[NotebookApp | INFO] Saving file at /Example Lesson.ipynb
+[NotebookApp | INFO] Saving file at /Code Visualizer.ipynb
+[NotebookApp | INFO] Starting buffering for c68a5973-3714-4c18-b319-15cb07716ed7:5eba8c61560a4a5993f1a1296c25e995
+[NotebookApp | INFO] Starting buffering for 611faf3f-7246-49ec-9b19-ea8c305d8102:2c1e8303c503405b87d8fdd9915d6fd4
+[NotebookApp | INFO] Starting buffering for 852b55b1-380f-4327-b407-5f6917d2da90:926afd79bd4a4b40a1e3b33c0a023b77
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:3001/?token=f8554fef5c0649411916308d6a49b4dca9ae162e3b2a67a2
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No web browser found: could not locate runnable browser.
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:3001/?token=f8554fef5c0649411916308d6a49b4dca9ae162e3b2a67a2
+[NotebookApp | INFO] interrupted
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 3 kernels
+[NotebookApp | INFO] Kernel shutdown: c68a5973-3714-4c18-b319-15cb07716ed7
+[NotebookApp | INFO] Kernel shutdown: 611faf3f-7246-49ec-9b19-ea8c305d8102
+[NotebookApp | INFO] Kernel shutdown: 852b55b1-380f-4327-b407-5f6917d2da90
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.10.93) 1.11ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.10.93) 0.98ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.10.93) 0.93ms
+[NotebookApp | INFO] Kernel started: 44709992-012f-4090-a645-d5a60d6796d9
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 44709992-012f-4090-a645-d5a60d6796d9
+[NotebookApp | INFO] Starting buffering for 44709992-012f-4090-a645-d5a60d6796d9:f58849d5b18a44da8badac347dc2b36b
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.93) 1.06ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-server.png (192.168.10.93) 0.93ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.93) 0.95ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.93) 1.07ms
+[NotebookApp | INFO] 302 GET /notebooks/img/two-buttons.png (192.168.10.93) 0.92ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.93) 1.23ms
+[NotebookApp | INFO] Kernel started: ff302b0b-1fcf-4d62-abe6-a1254870cb80
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.93) 1.01ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-json.png (192.168.10.93) 0.95ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.93) 0.95ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.93) 0.88ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ff302b0b-1fcf-4d62-abe6-a1254870cb80
+[NotebookApp | INFO] Starting buffering for ff302b0b-1fcf-4d62-abe6-a1254870cb80:18934cd04c5f4c31805d46277a005d56
+[NotebookApp | INFO] 302 GET / (192.168.10.93) 0.44ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.10.93) 0.77ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.10.93) 0.84ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.10.93) 0.81ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 44709992-012f-4090-a645-d5a60d6796d9
+[NotebookApp | INFO] Starting buffering for 44709992-012f-4090-a645-d5a60d6796d9:182ed962ff71400f826818fe7303f3b6
+[NotebookApp | INFO] 302 GET / (192.168.10.93) 0.41ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.10.93) 0.67ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.10.93) 0.60ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.10.93) 0.58ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 44709992-012f-4090-a645-d5a60d6796d9
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.93) 0.73ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.93) 0.64ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.93) 0.59ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.93) 0.63ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.93) 0.65ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.93) 0.60ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.93) 0.59ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-json.png (192.168.10.93) 0.62ms
+[NotebookApp | INFO] 302 GET /notebooks/img/two-buttons.png (192.168.10.93) 0.59ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-server.png (192.168.10.93) 0.60ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ff302b0b-1fcf-4d62-abe6-a1254870cb80
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.93) 0.62ms
+[NotebookApp | INFO] Kernel started: 19ff7338-8412-4e6c-a51b-65fbad15993d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 19ff7338-8412-4e6c-a51b-65fbad15993d
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1585257030268 (192.168.10.93): Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1585257030268 (192.168.10.93) 1.18ms referer=https://spell-radical-3000.codio.io/notebooks/test.ipynb
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1585257031871 (192.168.10.93): Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1585257031871 (192.168.10.93) 1.18ms referer=https://spell-radical-3000.codio.io/notebooks/test.ipynb
+[NotebookApp | INFO] Starting buffering for 19ff7338-8412-4e6c-a51b-65fbad15993d:660c50142ef84da38902c283802d4d21
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.93) 0.84ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 19ff7338-8412-4e6c-a51b-65fbad15993d
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1585257046333 (192.168.10.93): Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1585257046333 (192.168.10.93) 1.29ms referer=https://spell-radical-3000.codio.io/notebooks/test.ipynb
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1585257059996 (192.168.10.93): Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1585257059996 (192.168.10.93) 1.25ms referer=https://spell-radical-3000.codio.io/notebooks/test.ipynb
+[NotebookApp | INFO] Starting buffering for ff302b0b-1fcf-4d62-abe6-a1254870cb80:9261e638a6e64db386f985a717ba16e6
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.93) 1.26ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.93) 1.09ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.93) 0.95ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.93) 0.66ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-json.png (192.168.10.93) 0.71ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.93) 0.59ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.93) 1.14ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.93) 0.84ms
+[NotebookApp | INFO] 302 GET /notebooks/img/two-buttons.png (192.168.10.93) 0.57ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-server.png (192.168.10.93) 0.81ms
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1585257067073 (192.168.10.93): Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1585257067073 (192.168.10.93) 1.10ms referer=https://spell-radical-3000.codio.io/notebooks/test.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ff302b0b-1fcf-4d62-abe6-a1254870cb80
+[NotebookApp | INFO] Starting buffering for 19ff7338-8412-4e6c-a51b-65fbad15993d:8ee04355e3ec43508fd35c321d05df47
+[NotebookApp | INFO] Starting buffering for ff302b0b-1fcf-4d62-abe6-a1254870cb80:cccbbb26a90f428c8bafda172eb330b8
+[NotebookApp | INFO] Starting buffering for 44709992-012f-4090-a645-d5a60d6796d9:f21f325ff7de48478a3aa4ad72cdf5a2
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: c6d4ed44-78a5-4017-963d-cca584d16bf7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c6d4ed44-78a5-4017-963d-cca584d16bf7
+[NotebookApp | INFO] Starting buffering for c6d4ed44-78a5-4017-963d-cca584d16bf7:99380f6af7a34f238a65a1ec2f67ec86
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c6d4ed44-78a5-4017-963d-cca584d16bf7
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Starting buffering for c6d4ed44-78a5-4017-963d-cca584d16bf7:40b97b7dd5a84c718bdc0e2f7432a923
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.11.179) 0.69ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.11.179) 0.61ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.11.179) 0.72ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 44709992-012f-4090-a645-d5a60d6796d9
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 014d2542-fa5e-4e14-9f27-4a0cfabf2eb2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 014d2542-fa5e-4e14-9f27-4a0cfabf2eb2
+[NotebookApp | INFO] Starting buffering for 014d2542-fa5e-4e14-9f27-4a0cfabf2eb2:b06c7aac8a294804bf3ee50f7a6f41ed
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1585257714838 (192.168.11.179): Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1585257714838 (192.168.11.179) 1.73ms referer=https://spell-radical-3000.codio.io/notebooks/test.ipynb
+[NotebookApp | INFO] Starting buffering for 44709992-012f-4090-a645-d5a60d6796d9:f11f00e6e22f4a238e7420e8feda972e
+[NotebookApp | INFO] Kernel started: 54b17822-6ab3-4154-9730-c350c4e24b3d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 54b17822-6ab3-4154-9730-c350c4e24b3d
+[NotebookApp | INFO] Starting buffering for 54b17822-6ab3-4154-9730-c350c4e24b3d:ab5abc52f0214b3787279ff1651313a6
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 6 kernels
+[NotebookApp | INFO] Kernel shutdown: 014d2542-fa5e-4e14-9f27-4a0cfabf2eb2
+[NotebookApp | INFO] Kernel shutdown: c6d4ed44-78a5-4017-963d-cca584d16bf7
+[NotebookApp | INFO] Kernel shutdown: ff302b0b-1fcf-4d62-abe6-a1254870cb80
+[NotebookApp | INFO] Kernel shutdown: 54b17822-6ab3-4154-9730-c350c4e24b3d
+[NotebookApp | INFO] Kernel shutdown: 44709992-012f-4090-a645-d5a60d6796d9
+[NotebookApp | INFO] Kernel shutdown: 19ff7338-8412-4e6c-a51b-65fbad15993d
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.11.179) 0.53ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.11.179) 0.67ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.11.179) 0.64ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.11.179) 0.59ms
+[NotebookApp | INFO] Kernel started: 0e5d93da-d5cb-4a8a-abdc-a4a78350fa03
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0e5d93da-d5cb-4a8a-abdc-a4a78350fa03
+[NotebookApp | INFO] Starting buffering for 0e5d93da-d5cb-4a8a-abdc-a4a78350fa03:1fb54cb71bd44fe883b74080dc236106
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 0e5d93da-d5cb-4a8a-abdc-a4a78350fa03
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.11.179) 0.44ms
+[NotebookApp | INFO] 302 GET / (192.168.11.179) 0.48ms
+[NotebookApp | WARNING] delete /incorrectJSON.txt
+[NotebookApp | WARNING] Skipping trash for /home/codio/workspace/incorrectJSON.txt, on different device to home directory
+[NotebookApp | INFO] Kernel started: 115e0d96-bdbd-4111-a0b1-bc5718e749cb
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.11.179) 5.74ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.11.179) 1.14ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-server.png (192.168.11.179) 1.28ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.11.179) 1.31ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-json.png (192.168.11.179) 1.14ms
+[NotebookApp | INFO] 302 GET /notebooks/img/two-buttons.png (192.168.11.179) 1.10ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.11.179) 1.22ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.11.179) 1.27ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.11.179) 1.40ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.11.179) 0.93ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 115e0d96-bdbd-4111-a0b1-bc5718e749cb
+[NotebookApp | WARNING] WebSocket ping timeout after 119760 ms.
+[NotebookApp | INFO] Starting buffering for 115e0d96-bdbd-4111-a0b1-bc5718e749cb:980d823c57354fae986143cb51da5e38
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 115e0d96-bdbd-4111-a0b1-bc5718e749cb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.45ms
+[NotebookApp | INFO] Kernel started: 319714b1-3dec-454e-a81c-2fbb2f22d30b
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.226) 0.90ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 319714b1-3dec-454e-a81c-2fbb2f22d30b
+[NotebookApp | INFO] Starting buffering for 319714b1-3dec-454e-a81c-2fbb2f22d30b:8276853f4c984c3781c72e0f4897717a
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 319714b1-3dec-454e-a81c-2fbb2f22d30b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.93) 0.46ms
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.65ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.226) 0.70ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.226) 0.73ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.226) 0.64ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.226) 0.83ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.226) 0.64ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-json.png (192.168.10.226) 0.59ms
+[NotebookApp | INFO] 302 GET /notebooks/img/two-buttons.png (192.168.10.226) 0.58ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.226) 0.59ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.226) 0.58ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-server.png (192.168.10.226) 0.58ms
+[NotebookApp | INFO] Kernel started: d86ab696-6ac8-4d79-b9d2-d7ea12b2c5b3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d86ab696-6ac8-4d79-b9d2-d7ea12b2c5b3
+[NotebookApp | INFO] Starting buffering for d86ab696-6ac8-4d79-b9d2-d7ea12b2c5b3:64ea6264fb604a31896512a3a021dfa5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d86ab696-6ac8-4d79-b9d2-d7ea12b2c5b3
+[NotebookApp | INFO] Restoring connection for d86ab696-6ac8-4d79-b9d2-d7ea12b2c5b3:64ea6264fb604a31896512a3a021dfa5
+[NotebookApp | INFO] 302 GET / (192.168.10.93) 0.45ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.93) 0.81ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.93) 0.58ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.93) 0.57ms
+[NotebookApp | INFO] 302 GET /notebooks/img/two-buttons.png (192.168.10.93) 0.73ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.93) 0.65ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-server.png (192.168.10.93) 0.56ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.93) 0.57ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.93) 0.57ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.93) 0.57ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-json.png (192.168.10.93) 0.56ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d86ab696-6ac8-4d79-b9d2-d7ea12b2c5b3
+[NotebookApp | WARNING] WebSocket ping timeout after 119805 ms.
+[NotebookApp | WARNING] WebSocket ping timeout after 119710 ms.
+[NotebookApp | INFO] Starting buffering for d86ab696-6ac8-4d79-b9d2-d7ea12b2c5b3:84bfb0b48c734399b2cc458aaf0c8396
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: d86ab696-6ac8-4d79-b9d2-d7ea12b2c5b3
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.93) 0.48ms
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.51ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.226) 0.79ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.226) 0.66ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.226) 0.61ms
+[NotebookApp | INFO] Kernel started: e8c32eb7-d30d-4dab-bae9-00ff3dc7fb80
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.226) 0.65ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-json.png (192.168.10.226) 0.70ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.226) 0.63ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.226) 0.69ms
+[NotebookApp | INFO] 302 GET /notebooks/img/two-buttons.png (192.168.10.226) 0.59ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-server.png (192.168.10.226) 0.59ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.226) 0.59ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e8c32eb7-d30d-4dab-bae9-00ff3dc7fb80
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/show-notebooks.png (192.168.10.226) 0.82ms
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Starting buffering for e8c32eb7-d30d-4dab-bae9-00ff3dc7fb80:8349dcf9b42242e3b0c6569205c3667d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e8c32eb7-d30d-4dab-bae9-00ff3dc7fb80
+[NotebookApp | INFO] Restoring connection for e8c32eb7-d30d-4dab-bae9-00ff3dc7fb80:8349dcf9b42242e3b0c6569205c3667d
+[NotebookApp | WARNING] WebSocket ping timeout after 119238 ms.
+[NotebookApp | INFO] Starting buffering for e8c32eb7-d30d-4dab-bae9-00ff3dc7fb80:8349dcf9b42242e3b0c6569205c3667d
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: e8c32eb7-d30d-4dab-bae9-00ff3dc7fb80
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.44ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.226) 0.91ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.226) 0.68ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.226) 0.62ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-json.png (192.168.10.226) 0.84ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.226) 0.67ms
+[NotebookApp | INFO] 302 GET /notebooks/img/show-notebooks.png (192.168.10.226) 0.58ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.226) 0.56ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.226) 0.57ms
+[NotebookApp | INFO] Kernel started: 358ccc08-6c6a-4da0-8326-3a6a777f8cfb
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.226) 0.80ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 358ccc08-6c6a-4da0-8326-3a6a777f8cfb
+[NotebookApp | INFO] 302 GET /notebooks/img/notebook-config-json.png (192.168.10.226) 1.00ms
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Starting buffering for 358ccc08-6c6a-4da0-8326-3a6a777f8cfb:d2f680284e4a4d9bb1a83bab19891849
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.226) 0.67ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.226) 0.64ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.226) 0.63ms
+[NotebookApp | INFO] 302 GET /notebooks/img/notebook-config-json.png (192.168.10.226) 0.63ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.226) 0.63ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.226) 0.72ms
+[NotebookApp | INFO] 302 GET /notebooks/img/show-notebooks.png (192.168.10.226) 0.70ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.226) 0.61ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.226) 0.61ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 358ccc08-6c6a-4da0-8326-3a6a777f8cfb
+[NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
+[NotebookApp | INFO] Starting buffering for 358ccc08-6c6a-4da0-8326-3a6a777f8cfb:308344c531bd4cda8807becaf7176df3
