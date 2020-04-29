@@ -677,3 +677,348 @@
 [NotebookApp | INFO] Adapting to protocol v5.1 for kernel 358ccc08-6c6a-4da0-8326-3a6a777f8cfb
 [NotebookApp | INFO] Saving file at /Setting Up Codio.ipynb
 [NotebookApp | INFO] Starting buffering for 358ccc08-6c6a-4da0-8326-3a6a777f8cfb:308344c531bd4cda8807becaf7176df3
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.226) 0.70ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.226) 0.62ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.226) 0.60ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.226) 0.60ms
+[NotebookApp | INFO] 302 GET /notebooks/img/show-notebooks.png (192.168.10.226) 0.60ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.226) 0.61ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.226) 0.67ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.226) 0.60ms
+[NotebookApp | INFO] 302 GET /notebooks/img/notebook-config-json.png (192.168.10.226) 0.73ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 358ccc08-6c6a-4da0-8326-3a6a777f8cfb
+[NotebookApp | INFO] Starting buffering for 358ccc08-6c6a-4da0-8326-3a6a777f8cfb:7baa019fcfe643138c83ccbd1c611516
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 358ccc08-6c6a-4da0-8326-3a6a777f8cfb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.53ms
+[NotebookApp | INFO] Kernel started: 76dfe9af-4860-4d64-ac0c-826e9e5f2d24
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.226) 1.58ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 76dfe9af-4860-4d64-ac0c-826e9e5f2d24
+[NotebookApp | INFO] Starting buffering for 76dfe9af-4860-4d64-ac0c-826e9e5f2d24:28899c38d4074aeb878c6b03f955ea03
+[NotebookApp | INFO] Kernel started: 30dff35f-bd25-4dc8-b545-7705cbb9e523
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.226) 0.96ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.226) 0.76ms
+[NotebookApp | INFO] 302 GET /notebooks/img/notebook-config-json.png (192.168.10.226) 0.71ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.226) 0.77ms
+[NotebookApp | INFO] 302 GET /notebooks/img/show-notebooks.png (192.168.10.226) 0.69ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.226) 0.62ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.226) 0.69ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.226) 0.68ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.226) 0.67ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 30dff35f-bd25-4dc8-b545-7705cbb9e523
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.226) 0.82ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 76dfe9af-4860-4d64-ac0c-826e9e5f2d24
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1585768899184 (192.168.10.226): Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1585768899184 (192.168.10.226) 1.80ms referer=https://spell-radical-3000.codio.io/notebooks/test.ipynb
+[NotebookApp | INFO] Starting buffering for 76dfe9af-4860-4d64-ac0c-826e9e5f2d24:dea18e6e266746eb93a9bf2588cd3bee
+[NotebookApp | INFO] Starting buffering for 30dff35f-bd25-4dc8-b545-7705cbb9e523:c3a44acb23f5419f8153cba79583a1f5
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 30dff35f-bd25-4dc8-b545-7705cbb9e523
+[NotebookApp | INFO] Kernel shutdown: 76dfe9af-4860-4d64-ac0c-826e9e5f2d24
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.50ms
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.44ms
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1587051229831 (192.168.10.226): Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1587051229831 (192.168.10.226) 1.52ms referer=https://spell-radical-3000.codio.io/notebooks/test.ipynb
+[NotebookApp | WARNING] delete /test.ipynb
+[NotebookApp | WARNING] Skipping trash for /home/codio/workspace/test.ipynb, on different device to home directory
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1587051262931 (192.168.10.226): Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1587051262931 (192.168.10.226) 1.27ms referer=https://spell-radical-3000.codio.io/notebooks/test.ipynb
+[NotebookApp | WARNING] delete /test.ipynb
+[NotebookApp | WARNING] Skipping trash for /home/codio/workspace/test.ipynb, on different device to home directory
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.46ms
+[NotebookApp | WARNING] 404 GET /notebooks/test.ipynb (192.168.10.226): No such file or directory: test.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/test.ipynb (192.168.10.226) 7.45ms referer=https://codio.com/patricke/hello-jupyter-notebooks-in-codio/preview/%2F%2Fspell-radical-3000.codio.io%2Fnotebooks%2Ftest.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/test.ipynb (192.168.10.226): No such file or directory: test.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/test.ipynb (192.168.10.226) 1.53ms referer=https://codio.com/patricke/hello-jupyter-notebooks-in-codio/preview/%2F%2Fspell-radical-3000.codio.io%2Fnotebooks%2Ftest.ipynb
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.45ms
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1587051317311 (192.168.10.226): Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] Unreadable Notebook: /home/codio/workspace/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] 400 GET /api/contents/test.ipynb?type=notebook&_=1587051317311 (192.168.10.226) 1.32ms referer=https://spell-radical-3000.codio.io/notebooks/test.ipynb
+[NotebookApp | INFO] Kernel started: a3c2b77f-4f1c-4763-849c-4848f58c020d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a3c2b77f-4f1c-4763-849c-4848f58c020d
+[NotebookApp | INFO] Starting buffering for a3c2b77f-4f1c-4763-849c-4848f58c020d:9b323a5fb4ee4c6184595a87adfc9aab
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/server_extensions/assignment_list/handlers.py", line 65, in list_released_assignments
+        assignments = lister.start()
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/list.py", line 129, in start
+        super(ExchangeList, self).start()
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/exchange.py", line 122, in start
+        self.ensure_root()
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/exchange.py", line 100, in ensure_root
+        self.fail("Unwritable directory, please contact your instructor: {}".format(self.root))
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/exchange.py", line 78, in fail
+        raise ExchangeError(msg)
+    nbgrader.exchange.exchange.ExchangeError: Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+    
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] 404 POST /api/contents/source/Practice%2520Assignment (192.168.10.226): No such directory: /source/Practice%20Assignment
+[NotebookApp | WARNING] No such directory: /source/Practice%%20Assignment
+[NotebookApp | WARNING] 404 POST /api/contents/source/Practice%2520Assignment (192.168.10.226) 1.55ms referer=https://spell-radical-3000.codio.io/tree/source/Practice%20Assignment
+[NotebookApp | WARNING] 404 POST /api/contents/source/Practice%2520Assignment (192.168.10.226): No such directory: /source/Practice%20Assignment
+[NotebookApp | WARNING] No such directory: /source/Practice%%20Assignment
+[NotebookApp | WARNING] 404 POST /api/contents/source/Practice%2520Assignment (192.168.10.226) 1.48ms referer=https://spell-radical-3000.codio.io/tree/source/Practice%20Assignment
+[NotebookApp | WARNING] 404 POST /api/contents/source/Practice%2520Assignment (192.168.10.226): No such directory: /source/Practice%20Assignment
+[NotebookApp | WARNING] No such directory: /source/Practice%%20Assignment
+[NotebookApp | WARNING] 404 POST /api/contents/source/Practice%2520Assignment (192.168.10.226) 1.42ms referer=https://spell-radical-3000.codio.io/tree/source/Practice%20Assignment
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: a3c2b77f-4f1c-4763-849c-4848f58c020d
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.68ms
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.48ms
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] 404 POST /api/contents/source/Practice%2520Assignment (192.168.10.226): No such directory: /source/Practice%20Assignment
+[NotebookApp | WARNING] No such directory: /source/Practice%%20Assignment
+[NotebookApp | WARNING] 404 POST /api/contents/source/Practice%2520Assignment (192.168.10.226) 1.34ms referer=https://spell-radical-3000.codio.io/tree/source/Practice%20Assignment
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.51ms
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 445b4819-ff15-4fd5-a5c4-7c176afe491b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 445b4819-ff15-4fd5-a5c4-7c176afe491b
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/.img/nbgrader_cell.png (192.168.10.226): No such file or directory: .img/nbgrader_cell.png
+[NotebookApp | WARNING] 404 GET /notebooks/.img/nbgrader_cell.png (192.168.10.226) 32.34ms referer=https://spell-radical-3000.codio.io/notebooks/nbgrader.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.10.226) 1.63ms
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | WARNING] WebSocket ping timeout after 119849 ms.
+[NotebookApp | INFO] Starting buffering for 445b4819-ff15-4fd5-a5c4-7c176afe491b:129f359ba01c414280e21f5b08b8913a
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 445b4819-ff15-4fd5-a5c4-7c176afe491b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.51ms
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.10.226) 0.78ms
+[NotebookApp | INFO] Kernel started: 969e5b23-45e0-4daa-a9e3-e336c168e2dc
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 969e5b23-45e0-4daa-a9e3-e336c168e2dc
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.10.226) 1.25ms
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 969e5b23-45e0-4daa-a9e3-e336c168e2dc
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.59ms
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.43ms
+[NotebookApp | INFO] Kernel started: 16a536ef-6f33-4a45-bfc3-daddcd4504f3
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.10.226) 1.22ms
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.10.226) 1.12ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 16a536ef-6f33-4a45-bfc3-daddcd4504f3
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/nbgrader.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/nbgrader.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/nbgrader.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/nbgrader.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.10.226) 2.01ms
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/nbgrader.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Starting buffering for 16a536ef-6f33-4a45-bfc3-daddcd4504f3:dd92099240a345498c2644322029371c
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.10.226) 0.88ms
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.10.226) 0.75ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.10.226) 0.76ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 16a536ef-6f33-4a45-bfc3-daddcd4504f3
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.10.226) 0.90ms
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 16a536ef-6f33-4a45-bfc3-daddcd4504f3
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.49ms
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.10.226) 0.87ms
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.10.226) 0.65ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.10.226) 0.62ms
+[NotebookApp | INFO] Kernel started: a6fde9e0-521c-44ab-af2f-dce55bdf903a
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.10.226) 1.07ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a6fde9e0-521c-44ab-af2f-dce55bdf903a
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/nbgrader.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Starting buffering for a6fde9e0-521c-44ab-af2f-dce55bdf903a:0aca27898e224ccdab5aee92122a72a4
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.10.226) 0.65ms
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.10.226) 0.64ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.10.226) 0.61ms
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.10.226) 0.68ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a6fde9e0-521c-44ab-af2f-dce55bdf903a
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.10.226) 0.87ms
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.10.226) 0.84ms
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.10.226) 0.88ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.10.226) 0.89ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a6fde9e0-521c-44ab-af2f-dce55bdf903a
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.10.226) 1.11ms
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/feedback.png (192.168.10.226) 0.91ms
+[NotebookApp | INFO] Saving file at /nbgrader.ipynb
+[NotebookApp | INFO] Starting buffering for a6fde9e0-521c-44ab-af2f-dce55bdf903a:c647174476fa4a1185ee9483965d6d83
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: a6fde9e0-521c-44ab-af2f-dce55bdf903a
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.93) 0.59ms
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.93) 0.89ms
+[NotebookApp | INFO] Kernel started: b93ec2e6-4b22-4dbc-b6d8-c653e2f671d0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b93ec2e6-4b22-4dbc-b6d8-c653e2f671d0
+[NotebookApp | INFO] Starting buffering for b93ec2e6-4b22-4dbc-b6d8-c653e2f671d0:a5ad71a89b1a4209befa7b6dd603bfa9
+[NotebookApp | INFO] Kernel started: 6ffbd2ba-b935-436a-a92e-a3a3280be985
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.93) 1.44ms
+[NotebookApp | INFO] 302 GET /notebooks/img/notebook-config-json.png (192.168.10.93) 1.10ms
+[NotebookApp | INFO] 302 GET /notebooks/img/show-notebooks.png (192.168.10.93) 1.12ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.93) 1.10ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.93) 1.12ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.93) 0.71ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.93) 0.77ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.93) 0.84ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.93) 0.82ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6ffbd2ba-b935-436a-a92e-a3a3280be985
+[NotebookApp | INFO] Starting buffering for 6ffbd2ba-b935-436a-a92e-a3a3280be985:639563003af04861817da2636f768d8a
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.93) 0.74ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b93ec2e6-4b22-4dbc-b6d8-c653e2f671d0
+[NotebookApp | INFO] Starting buffering for b93ec2e6-4b22-4dbc-b6d8-c653e2f671d0:19165e2e9ef642b39ace043fd1987150
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.93) 0.90ms
+[NotebookApp | INFO] 302 GET /notebooks/img/show-notebooks.png (192.168.10.93) 0.86ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.93) 0.70ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.93) 0.75ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.93) 0.76ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.93) 0.93ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.93) 0.73ms
+[NotebookApp | INFO] 302 GET /notebooks/img/notebook-config-json.png (192.168.10.93) 0.67ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.93) 0.76ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6ffbd2ba-b935-436a-a92e-a3a3280be985
+[NotebookApp | INFO] Starting buffering for 6ffbd2ba-b935-436a-a92e-a3a3280be985:8b7db85cbc0f471882ed6a8bf0fb8688
+[NotebookApp | INFO] Kernel started: 86634569-156f-41a2-94b3-ed8034120a9d
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.10.93) 1.24ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.10.93) 1.32ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.10.93) 1.28ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 86634569-156f-41a2-94b3-ed8034120a9d
+[NotebookApp | INFO] Starting buffering for 86634569-156f-41a2-94b3-ed8034120a9d:313c659f09d3425993772e07a49337ec
+[NotebookApp | INFO] 302 GET /notebooks/img/feedback.png (192.168.10.93) 1.01ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.10.93) 0.72ms
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.10.93) 0.93ms
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.10.93) 1.07ms
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.10.93) 0.78ms
+[NotebookApp | INFO] Kernel started: 21e78405-bdf3-4d9f-82ec-4bc1fd4a27a0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 21e78405-bdf3-4d9f-82ec-4bc1fd4a27a0
+[NotebookApp | INFO] Starting buffering for 21e78405-bdf3-4d9f-82ec-4bc1fd4a27a0:002906bbad294fbb9ed70ce7d837d685
