@@ -1022,3 +1022,164 @@
 [NotebookApp | INFO] Kernel started: 21e78405-bdf3-4d9f-82ec-4bc1fd4a27a0
 [NotebookApp | INFO] Adapting to protocol v5.1 for kernel 21e78405-bdf3-4d9f-82ec-4bc1fd4a27a0
 [NotebookApp | INFO] Starting buffering for 21e78405-bdf3-4d9f-82ec-4bc1fd4a27a0:002906bbad294fbb9ed70ce7d837d685
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 4 kernels
+[NotebookApp | INFO] Kernel shutdown: 21e78405-bdf3-4d9f-82ec-4bc1fd4a27a0
+[NotebookApp | INFO] Kernel shutdown: 6ffbd2ba-b935-436a-a92e-a3a3280be985
+[NotebookApp | INFO] Kernel shutdown: b93ec2e6-4b22-4dbc-b6d8-c653e2f671d0
+[NotebookApp | INFO] Kernel shutdown: 86634569-156f-41a2-94b3-ed8034120a9d
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.93) 0.58ms
+[NotebookApp | WARNING] 404 GET /notebooks/Example%20Lesson.ipynb (192.168.10.93): No such file or directory: Example Lesson.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Example%20Lesson.ipynb (192.168.10.93) 8.93ms referer=https://codio.com/patricke/hello-jupyter-notebooks-in-codio
+[NotebookApp | WARNING] 404 GET /notebooks/Example%20Lesson.ipynb (192.168.10.93): No such file or directory: Example Lesson.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Example%20Lesson.ipynb (192.168.10.93) 2.05ms referer=https://codio.com/patricke/hello-jupyter-notebooks-in-codio
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.93) 0.88ms
+[NotebookApp | INFO] Kernel started: 3b66f6b7-98d3-46a3-ac07-fe3e98c8302f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3b66f6b7-98d3-46a3-ac07-fe3e98c8302f
+[NotebookApp | INFO] Starting buffering for 3b66f6b7-98d3-46a3-ac07-fe3e98c8302f:8d803ce817964ffb8c6f4e2d8cf17995
+[NotebookApp | WARNING] 404 GET /notebooks/Example%20Lesson.ipynb (192.168.10.93): No such file or directory: Example Lesson.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Example%20Lesson.ipynb (192.168.10.93) 1.38ms referer=https://codio.com/patricke/hello-jupyter-notebooks-in-codio
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.93) 0.97ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3b66f6b7-98d3-46a3-ac07-fe3e98c8302f
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.11.179) 0.86ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3b66f6b7-98d3-46a3-ac07-fe3e98c8302f
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.11.179) 0.90ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.11.179) 0.90ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.11.179) 1.13ms
+[NotebookApp | INFO] Kernel started: 10c480fa-b247-4c8c-98f0-98cf20768c8e
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.11.179) 1.07ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.11.179) 0.99ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.11.179) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/img/show-notebooks.png (192.168.11.179) 0.80ms
+[NotebookApp | INFO] 302 GET /notebooks/img/notebook-config-json.png (192.168.11.179) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.11.179) 1.01ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 10c480fa-b247-4c8c-98f0-98cf20768c8e
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.11.179) 0.86ms
+[NotebookApp | INFO] Kernel started: 961ced5c-6a99-44d4-aaeb-47c556e76127
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.11.179) 0.86ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.11.179) 0.73ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 961ced5c-6a99-44d4-aaeb-47c556e76127
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.11.179) 0.72ms
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.11.179) 0.72ms
+[NotebookApp | INFO] Kernel started: bf70a56b-0c09-46a6-b8ee-c916216b3003
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.11.179) 1.83ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.11.179) 0.83ms
+[NotebookApp | INFO] 302 GET /notebooks/img/feedback.png (192.168.11.179) 0.84ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel bf70a56b-0c09-46a6-b8ee-c916216b3003
+[NotebookApp | INFO] Starting buffering for 10c480fa-b247-4c8c-98f0-98cf20768c8e:2a2480acee2042a88faa83661ff798ff
+[NotebookApp | INFO] Starting buffering for 961ced5c-6a99-44d4-aaeb-47c556e76127:ebc68fb82c5141558a326d0d2e0f07e9
+[NotebookApp | INFO] Starting buffering for bf70a56b-0c09-46a6-b8ee-c916216b3003:6f8953bbf8114062a97ebe5d73ca35f4
+[NotebookApp | INFO] Starting buffering for 3b66f6b7-98d3-46a3-ac07-fe3e98c8302f:5dea41ea8d1a4f6486860223f85b236d
+[NotebookApp | INFO] 302 GET / (192.168.10.93) 10.26ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.93) 0.95ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.93) 0.77ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.93) 0.70ms
+[NotebookApp | INFO] 302 GET /notebooks/img/show-notebooks.png (192.168.10.93) 0.65ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.93) 0.63ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.93) 0.72ms
+[NotebookApp | INFO] 302 GET /notebooks/img/notebook-config-json.png (192.168.10.93) 0.63ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.93) 0.95ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.93) 0.69ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 10c480fa-b247-4c8c-98f0-98cf20768c8e
+[NotebookApp | INFO] Saving file at /2. Setting Up Codio.ipynb
+[NotebookApp | INFO] Starting buffering for 10c480fa-b247-4c8c-98f0-98cf20768c8e:f5f2fa19f2dd40589be6b2223f22e7d5
+[NotebookApp | INFO] Saving file at /2. Setting Up Codio.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/show-notebooks.png (192.168.10.93) 0.81ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.93) 0.74ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.93) 0.76ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.93) 0.99ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.93) 0.69ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.93) 0.73ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.93) 1.12ms
+[NotebookApp | INFO] 302 GET /notebooks/img/notebook-config-json.png (192.168.10.93) 0.71ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.93) 0.72ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 10c480fa-b247-4c8c-98f0-98cf20768c8e
+[NotebookApp | INFO] Saving file at /2. Setting Up Codio.ipynb
+[NotebookApp | INFO] Starting buffering for 10c480fa-b247-4c8c-98f0-98cf20768c8e:dbfc56ed294d4b5e9f2533967fb1c4af
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 4 kernels
+[NotebookApp | INFO] Kernel shutdown: 10c480fa-b247-4c8c-98f0-98cf20768c8e
+[NotebookApp | INFO] Kernel shutdown: bf70a56b-0c09-46a6-b8ee-c916216b3003
+[NotebookApp | INFO] Kernel shutdown: 3b66f6b7-98d3-46a3-ac07-fe3e98c8302f
+[NotebookApp | INFO] Kernel shutdown: 961ced5c-6a99-44d4-aaeb-47c556e76127
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 404 GET /notebooks/Example%20Lesson.ipynb (192.168.10.226): No such file or directory: Example Lesson.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Example%20Lesson.ipynb (192.168.10.226) 90.35ms referer=https://codio.com/patricke/hello-jupyter-notebooks-in-codio/preview/%2F%2Fspell-radical-3000.codio.io%2Fnotebooks%2FExample%20Lesson.ipynb
+[NotebookApp | INFO] 302 GET / (192.168.10.226) 0.46ms
+[NotebookApp | INFO] Kernel started: 0d7f6c89-f2bb-41a4-b988-d90bee08138a
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.226) 1.46ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.226) 1.15ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.226) 0.99ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.226) 1.32ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.226) 1.54ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.226) 1.10ms
+[NotebookApp | INFO] 302 GET /notebooks/img/show-notebooks.png (192.168.10.226) 1.32ms
+[NotebookApp | INFO] 302 GET /notebooks/img/notebook-config-json.png (192.168.10.226) 1.06ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.226) 1.08ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0d7f6c89-f2bb-41a4-b988-d90bee08138a
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.10.226) 0.64ms
+[NotebookApp | INFO] Kernel started: 02ef03e6-b9a4-483b-8e69-1732907db8d4
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 02ef03e6-b9a4-483b-8e69-1732907db8d4
+[NotebookApp | INFO] Kernel started: 89176c86-be48-4cd8-b2cb-ebaec416c161
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.10.226) 1.15ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.10.226) 1.04ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.10.226) 0.66ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 89176c86-be48-4cd8-b2cb-ebaec416c161
+[NotebookApp | INFO] Kernel started: 09a6b374-bcbe-44ff-a014-005ceeef7c72
+[NotebookApp | INFO] 302 GET /notebooks/img/feedback.png (192.168.10.226) 1.37ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.10.226) 0.73ms
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.10.226) 0.76ms
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.10.226) 0.69ms
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.10.226) 0.75ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 09a6b374-bcbe-44ff-a014-005ceeef7c72
+[NotebookApp | INFO] Starting buffering for 89176c86-be48-4cd8-b2cb-ebaec416c161:b5a7fa30ba03415e8a642357b0df191f
+[NotebookApp | INFO] Starting buffering for 02ef03e6-b9a4-483b-8e69-1732907db8d4:7b9754933cfb40938a11bdeecca343ca
+[NotebookApp | INFO] Starting buffering for 0d7f6c89-f2bb-41a4-b988-d90bee08138a:d47f12acb786493c8be248ca1fa3e670
+[NotebookApp | INFO] Starting buffering for 09a6b374-bcbe-44ff-a014-005ceeef7c72:91414f944eef4a869b7e49ea3342252d
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 4 kernels
+[NotebookApp | INFO] Kernel shutdown: 0d7f6c89-f2bb-41a4-b988-d90bee08138a
+[NotebookApp | INFO] Kernel shutdown: 09a6b374-bcbe-44ff-a014-005ceeef7c72
+[NotebookApp | INFO] Kernel shutdown: 02ef03e6-b9a4-483b-8e69-1732907db8d4
+[NotebookApp | INFO] Kernel shutdown: 89176c86-be48-4cd8-b2cb-ebaec416c161
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.93) 0.55ms
+[NotebookApp | INFO] Kernel started: 3cc3374f-b7eb-494c-93e5-8bdda37b77e7
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.93) 1.08ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.93) 0.84ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.93) 0.67ms
+[NotebookApp | INFO] 302 GET /notebooks/img/notebook-config-json.png (192.168.10.93) 0.71ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.93) 0.64ms
+[NotebookApp | INFO] 302 GET /notebooks/img/show-notebooks.png (192.168.10.93) 0.66ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.93) 0.86ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.93) 0.76ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.93) 0.74ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3cc3374f-b7eb-494c-93e5-8bdda37b77e7
+[NotebookApp | INFO] Starting buffering for 3cc3374f-b7eb-494c-93e5-8bdda37b77e7:3875fd52e4c5424b89e960d53f34186c
+[NotebookApp | INFO] 302 GET / (192.168.10.93) 0.49ms
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.10.93) 0.80ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.10.93) 0.76ms
+[NotebookApp | INFO] 302 GET /notebooks/img/show-notebooks.png (192.168.10.93) 0.97ms
+[NotebookApp | INFO] 302 GET /notebooks/img/notebook-config-json.png (192.168.10.93) 0.62ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.10.93) 0.63ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.10.93) 0.62ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.10.93) 0.63ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.93) 0.62ms
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.93) 0.77ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3cc3374f-b7eb-494c-93e5-8bdda37b77e7
