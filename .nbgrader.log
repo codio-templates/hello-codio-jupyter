@@ -1183,3 +1183,149 @@
 [NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.10.93) 0.62ms
 [NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.10.93) 0.77ms
 [NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3cc3374f-b7eb-494c-93e5-8bdda37b77e7
+[NotebookApp | INFO] Starting buffering for 3cc3374f-b7eb-494c-93e5-8bdda37b77e7:1295558de3d546528725a9b0f45c608f
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 3cc3374f-b7eb-494c-93e5-8bdda37b77e7
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.93) 0.66ms
+[NotebookApp | INFO] Kernel started: 21a6a127-3042-4762-a6c5-2f06d07236f4
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 21a6a127-3042-4762-a6c5-2f06d07236f4
+[NotebookApp | INFO] Saving file at /lorenz_attractor.ipynb
+[NotebookApp | INFO] Saving file at /lorenz_attractor.ipynb
+[NotebookApp | INFO] Saving file at /lorenz_attractor.ipynb
+[NotebookApp | INFO] Starting buffering for 21a6a127-3042-4762-a6c5-2f06d07236f4:19cee4fe34ab45f39ec9381e4d1d5bed
+[NotebookApp | WARNING] Notebook lorenz_attractor.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 21a6a127-3042-4762-a6c5-2f06d07236f4
+[NotebookApp | INFO] Saving file at /lorenz_attractor.ipynb
+[NotebookApp | INFO] Saving file at /lorenz_attractor.ipynb
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 21a6a127-3042-4762-a6c5-2f06d07236f4
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.10.93) 0.44ms
+[NotebookApp | INFO] Kernel started: e042387f-c349-4400-9cc6-543cbce9c140
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e042387f-c349-4400-9cc6-543cbce9c140
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e042387f-c349-4400-9cc6-543cbce9c140
+[NotebookApp | INFO] Saving file at /lorenz_attractor.ipynb
+[NotebookApp | INFO] Starting buffering for e042387f-c349-4400-9cc6-543cbce9c140:8b1b74d4b2d140368b88257ba26e74ab
+[NotebookApp | INFO] 302 GET / (192.168.10.93) 0.65ms
+[NotebookApp | WARNING] 404 GET /notebooks/lorenz_attractor.ipynb (192.168.10.93): No such file or directory: lorenz_attractor.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/lorenz_attractor.ipynb (192.168.10.93) 112.51ms referer=https://codio.com/patricke/hello-jupyter-notebooks-in-codio/preview/%2F%2Fspell-radical-3000.codio.io%2Fnotebooks%2Florenz_attractor.ipynb
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: e042387f-c349-4400-9cc6-543cbce9c140
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (192.168.11.179) 0.55ms
+[NotebookApp | INFO] 302 GET /notebooks/img/iterating-list-variable-name.png (192.168.11.179) 0.75ms
+[NotebookApp | INFO] Kernel started: a4a09e34-3d3f-4814-8588-61fe0a223846
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a4a09e34-3d3f-4814-8588-61fe0a223846
+[NotebookApp | INFO] 302 GET /notebooks/img/empty-jupyter.png (192.168.11.179) 0.80ms
+[NotebookApp | INFO] 302 GET /notebooks/img/markdown-buttons.png (192.168.11.179) 0.76ms
+[NotebookApp | INFO] 302 GET /notebooks/img/configure-button.png (192.168.11.179) 0.91ms
+[NotebookApp | INFO] 302 GET /notebooks/img/config-json.png (192.168.11.179) 0.78ms
+[NotebookApp | INFO] 302 GET /notebooks/img/notebook-config-json.png (192.168.11.179) 0.70ms
+[NotebookApp | INFO] 302 GET /notebooks/img/show-notebooks.png (192.168.11.179) 0.61ms
+[NotebookApp | INFO] Kernel started: af580565-6d18-45e9-8022-a4922e418792
+[NotebookApp | INFO] 302 GET /notebooks/img/select-stack.png (192.168.11.179) 1.61ms
+[NotebookApp | INFO] 302 GET /notebooks/img/browse-stacks.png (192.168.11.179) 1.08ms
+[NotebookApp | INFO] 302 GET /notebooks/img/jupyter-stacks.png (192.168.11.179) 0.68ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel af580565-6d18-45e9-8022-a4922e418792
+[NotebookApp | INFO] Saving file at /1.Example Lesson.ipynb
+[NotebookApp | INFO] Starting buffering for a4a09e34-3d3f-4814-8588-61fe0a223846:5ca190ec33584e048b14f88b5b5f49e8
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.11.179) 0.93ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.11.179) 0.85ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.11.179) 0.67ms
+[NotebookApp | INFO] Kernel started: ce919574-8794-4d5f-9d0b-4659876e920e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ce919574-8794-4d5f-9d0b-4659876e920e
+[NotebookApp | INFO] Starting buffering for af580565-6d18-45e9-8022-a4922e418792:28119a47d7494a71a396b3ab8b5c59e2
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Kernel started: a04b9e68-900b-463b-9d68-e63338899a03
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.11.179) 5.64ms
+[NotebookApp | INFO] 302 GET /notebooks/img/feedback.png (192.168.11.179) 1.24ms
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.11.179) 1.34ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.11.179) 1.25ms
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.11.179) 1.24ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a04b9e68-900b-463b-9d68-e63338899a03
+[NotebookApp | INFO] Starting buffering for ce919574-8794-4d5f-9d0b-4659876e920e:83d7defe641a43f38bb82ecac55906d2
+[NotebookApp | INFO] Starting buffering for a04b9e68-900b-463b-9d68-e63338899a03:35b063fc14bb4f4a830fe3dd39b9ae55
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 4 kernels
+[NotebookApp | INFO] Kernel shutdown: ce919574-8794-4d5f-9d0b-4659876e920e
+[NotebookApp | INFO] Kernel shutdown: a04b9e68-900b-463b-9d68-e63338899a03
+[NotebookApp | INFO] Kernel shutdown: a4a09e34-3d3f-4814-8588-61fe0a223846
+[NotebookApp | INFO] Kernel shutdown: af580565-6d18-45e9-8022-a4922e418792
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.11.179) 0.63ms
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.11.179) 0.82ms
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.11.179) 0.66ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.11.179) 0.66ms
+[NotebookApp | INFO] 302 GET /notebooks/img/feedback.png (192.168.11.179) 0.63ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.11.179) 0.63ms
+[NotebookApp | INFO] Kernel started: 88291910-bb25-4e56-a022-012f6b69b7a6
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.11.179) 0.62ms
+[NotebookApp | INFO] Kernel started: 4ef1ad32-f9d0-4650-8bca-cdbbca49f26e
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.11.179) 0.64ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 88291910-bb25-4e56-a022-012f6b69b7a6
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4ef1ad32-f9d0-4650-8bca-cdbbca49f26e
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/preact/preact.min.js.map (192.168.11.179) 8.85ms referer=None
+[NotebookApp | WARNING] 404 GET /static/components/proptypes/index.js.map (192.168.11.179) 1.06ms referer=None
+[NotebookApp | WARNING] 404 GET /static/components/preact-compat/preact-compat.min.js.map (192.168.11.179) 1.22ms referer=None
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Starting buffering for 88291910-bb25-4e56-a022-012f6b69b7a6:b98a007e5172416085ca67d95283b7b0
+[NotebookApp | INFO] Starting buffering for 4ef1ad32-f9d0-4650-8bca-cdbbca49f26e:e0b0032feeb24b7487eac158a0ef4742
+[NotebookApp | WARNING] 404 GET /static/components/preact-compat/preact-compat.min.js.map (192.168.11.179) 1.03ms referer=None
+[NotebookApp | WARNING] 404 GET /static/components/proptypes/index.js.map (192.168.11.179) 2.62ms referer=None
+[NotebookApp | WARNING] 404 GET /static/components/preact/preact.min.js.map (192.168.11.179) 1.83ms referer=None
+[NotebookApp | WARNING] 404 GET /static/components/proptypes/index.js.map (192.168.11.179) 1.29ms referer=None
+[NotebookApp | WARNING] 404 GET /static/components/preact/preact.min.js.map (192.168.11.179) 2.10ms referer=None
+[NotebookApp | WARNING] 404 GET /static/components/preact-compat/preact-compat.min.js.map (192.168.11.179) 1.29ms referer=None
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.11.179) 0.66ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.11.179) 0.68ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.11.179) 0.63ms
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.11.179) 0.79ms
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.11.179) 0.71ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.11.179) 0.72ms
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.11.179) 0.73ms
+[NotebookApp | INFO] 302 GET /notebooks/img/feedback.png (192.168.11.179) 0.63ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4ef1ad32-f9d0-4650-8bca-cdbbca49f26e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 88291910-bb25-4e56-a022-012f6b69b7a6
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/generate_link.png (192.168.11.179) 0.92ms
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/embed_code.png (192.168.11.179) 1.17ms
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
