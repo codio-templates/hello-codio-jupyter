@@ -1329,3 +1329,136 @@
 [NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
 [NotebookApp | INFO] 302 GET /notebooks/img/embed_code.png (192.168.11.179) 1.17ms
 [NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Starting buffering for 4ef1ad32-f9d0-4650-8bca-cdbbca49f26e:8ddf07fc0103438a9a53097f492b3d4b
+[NotebookApp | INFO] Starting buffering for 88291910-bb25-4e56-a022-012f6b69b7a6:826a37d642ad4f9f8b6be00ed758277f
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 4ef1ad32-f9d0-4650-8bca-cdbbca49f26e
+[NotebookApp | INFO] Kernel shutdown: 88291910-bb25-4e56-a022-012f6b69b7a6
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 70969fe1-63eb-4131-ad06-ae1dd9cf4cf3
+[NotebookApp | INFO] 302 GET /notebooks/img/embed_code.png (192.168.11.179) 1.02ms
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.11.179) 0.81ms
+[NotebookApp | INFO] Kernel started: adfa824d-2640-47e4-a48c-422e5720a05b
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.11.179) 2.03ms
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.11.179) 1.37ms
+[NotebookApp | INFO] 302 GET /notebooks/img/feedback.png (192.168.11.179) 2.03ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.11.179) 2.38ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.11.179) 1.74ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.11.179) 1.42ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.11.179) 1.32ms
+[NotebookApp | INFO] 302 GET /notebooks/img/generate_link.png (192.168.11.179) 2.43ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 70969fe1-63eb-4131-ad06-ae1dd9cf4cf3
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.11.179) 1.08ms
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.11.179) 1.01ms
+[NotebookApp | INFO] 302 GET /notebooks/img/feedback.png (192.168.11.179) 0.90ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel adfa824d-2640-47e4-a48c-422e5720a05b
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.11.179) 0.93ms
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.11.179) 0.75ms
+[NotebookApp | INFO] Starting buffering for 70969fe1-63eb-4131-ad06-ae1dd9cf4cf3:8eda31c3a96f417a9d68097a29c53f3f
+[NotebookApp | INFO] Starting buffering for adfa824d-2640-47e4-a48c-422e5720a05b:e1617a98b5a54d8c81d586f00ef442da
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 70969fe1-63eb-4131-ad06-ae1dd9cf4cf3
+[NotebookApp | INFO] Kernel shutdown: adfa824d-2640-47e4-a48c-422e5720a05b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET /notebooks/img/generate_link.png (192.168.11.179) 0.72ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.11.179) 1.10ms
+[NotebookApp | INFO] Kernel started: 87f128b0-f79d-4f5c-abb7-8d5c35fa1257
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.11.179) 1.33ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.11.179) 1.08ms
+[NotebookApp | INFO] 302 GET /notebooks/img/embed_code.png (192.168.11.179) 1.09ms
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.11.179) 1.06ms
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.11.179) 0.76ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.11.179) 0.71ms
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.11.179) 0.71ms
+[NotebookApp | INFO] 302 GET /notebooks/img/feedback.png (192.168.11.179) 1.16ms
+[NotebookApp | INFO] Kernel started: d3e714bf-fb72-410c-abc6-9a15cae99d5c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 87f128b0-f79d-4f5c-abb7-8d5c35fa1257
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d3e714bf-fb72-410c-abc6-9a15cae99d5c
+[NotebookApp | INFO] Starting buffering for d3e714bf-fb72-410c-abc6-9a15cae99d5c:08c78d8968fa4022853ed28e82b2814b
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: d3e714bf-fb72-410c-abc6-9a15cae99d5c
+[NotebookApp | INFO] Kernel shutdown: 87f128b0-f79d-4f5c-abb7-8d5c35fa1257
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 404 GET /api/kernels/87f128b0-f79d-4f5c-abb7-8d5c35fa1257/channels?session_id=ac557262dea449228944a9bcf806f4fd (192.168.11.179): Kernel does not exist: 87f128b0-f79d-4f5c-abb7-8d5c35fa1257
+[NotebookApp | WARNING] 404 GET /api/kernels/87f128b0-f79d-4f5c-abb7-8d5c35fa1257/channels?session_id=ac557262dea449228944a9bcf806f4fd (192.168.11.179) 28.78ms referer=None
+[NotebookApp | WARNING] Replacing stale connection: 87f128b0-f79d-4f5c-abb7-8d5c35fa1257:ac557262dea449228944a9bcf806f4fd
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/img/embed_code.png (192.168.11.179) 0.94ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.11.179) 0.77ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.11.179) 0.67ms
+[NotebookApp | INFO] Kernel started: cde5b32b-02bf-44cb-897f-edc538178023
+[NotebookApp | INFO] 302 GET /notebooks/img/generate_link.png (192.168.11.179) 1.07ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.11.179) 1.00ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cde5b32b-02bf-44cb-897f-edc538178023
+[NotebookApp | WARNING] WebSocket ping timeout after 119973 ms.
+[NotebookApp | INFO] Starting buffering for cde5b32b-02bf-44cb-897f-edc538178023:f45643e009634664a615137f8d50679c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cde5b32b-02bf-44cb-897f-edc538178023
+[NotebookApp | INFO] Restoring connection for cde5b32b-02bf-44cb-897f-edc538178023:f45643e009634664a615137f8d50679c
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3001/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Starting buffering for cde5b32b-02bf-44cb-897f-edc538178023:f45643e009634664a615137f8d50679c
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.10.93) 1.43ms
+[NotebookApp | INFO] Kernel started: f88d583c-5cc3-4806-b51e-829aecd5ebdd
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.10.93) 1.46ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.10.93) 1.23ms
+[NotebookApp | INFO] 302 GET /notebooks/img/embed_code.png (192.168.10.93) 1.37ms
+[NotebookApp | INFO] 302 GET /notebooks/img/generate_link.png (192.168.10.93) 1.03ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f88d583c-5cc3-4806-b51e-829aecd5ebdd
+[NotebookApp | INFO] Starting buffering for f88d583c-5cc3-4806-b51e-829aecd5ebdd:4ab6a3d5d783438d8c11c8175e1ba659
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.11.179) 0.96ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.11.179) 0.72ms
+[NotebookApp | INFO] 302 GET /notebooks/img/embed_code.png (192.168.11.179) 0.67ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.11.179) 0.64ms
+[NotebookApp | INFO] 302 GET /notebooks/img/generate_link.png (192.168.11.179) 0.66ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cde5b32b-02bf-44cb-897f-edc538178023
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Starting buffering for cde5b32b-02bf-44cb-897f-edc538178023:90c946822bd847768c253afa5d0e2000
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: cde5b32b-02bf-44cb-897f-edc538178023
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(spell-radical or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 2aac7adb-9b38-4eaf-9f74-284559c5254b
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.10.93) 1.46ms
+[NotebookApp | INFO] 302 GET /notebooks/img/generate_link.png (192.168.10.93) 1.07ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.10.93) 0.96ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.10.93) 1.18ms
+[NotebookApp | INFO] 302 GET /notebooks/img/embed_code.png (192.168.10.93) 0.89ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2aac7adb-9b38-4eaf-9f74-284559c5254b
+[NotebookApp | INFO] Kernel started: 1e8c4a9f-b240-4554-8cc3-f06ede4074b1
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.10.93) 1.13ms
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.10.93) 0.96ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.10.93) 0.93ms
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.10.93) 0.90ms
+[NotebookApp | INFO] 302 GET /notebooks/img/feedback.png (192.168.10.93) 1.37ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1e8c4a9f-b240-4554-8cc3-f06ede4074b1
+[NotebookApp | INFO] Saving file at /4. nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /4. nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /4. nbgrader.ipynb
