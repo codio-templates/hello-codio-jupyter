@@ -1506,3 +1506,51 @@
 [NotebookApp | INFO] The Jupyter Notebook is running at:
 [NotebookApp | INFO] http://rudolf-spiral:3000/
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook 4. nbgrader.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.10.93) 1.24ms
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.10.93) 1.09ms
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.10.93) 1.19ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.10.93) 0.98ms
+[NotebookApp | INFO] 302 GET /notebooks/img/feedback.png (192.168.10.93) 1.15ms
+[NotebookApp | INFO] Kernel started: 47cc510e-481f-4b1a-9652-e01f617fa284
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 47cc510e-481f-4b1a-9652-e01f617fa284) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 47cc510e-481f-4b1a-9652-e01f617fa284:0b525a4e67dd44b69a2311dedf8fe785
+[NotebookApp | WARNING] Notebook 4. nbgrader.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.10.93) 1.40ms
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.10.93) 1.37ms
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.10.93) 0.91ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.10.93) 0.81ms
+[NotebookApp | INFO] 302 GET /notebooks/img/feedback.png (192.168.10.93) 0.93ms
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 47cc510e-481f-4b1a-9652-e01f617fa284) to 5.3 (client).
+[NotebookApp | WARNING] Notebook 3. Code Visualizer.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.10.93) 1.05ms
+[NotebookApp | INFO] 302 GET /notebooks/img/generate_link.png (192.168.10.93) 0.73ms
+[NotebookApp | INFO] Kernel started: 5a39885e-b3fc-4062-b555-3d199ad8b28b
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.10.93) 1.72ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.10.93) 1.74ms
+[NotebookApp | INFO] 302 GET /notebooks/img/embed_code.png (192.168.10.93) 1.77ms
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 5a39885e-b3fc-4062-b555-3d199ad8b28b) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 47cc510e-481f-4b1a-9652-e01f617fa284:8efb6d09b12a40558f507a7fd9a6a1b7
+[NotebookApp | INFO] Starting buffering for 5a39885e-b3fc-4062-b555-3d199ad8b28b:4ab32a70af5f4ba68ea90f5c458bb2cf
+[NotebookApp | INFO] Saving file at /4. nbgrader.ipynb
+[NotebookApp | INFO] Saving file at /3. Code Visualizer.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 47cc510e-481f-4b1a-9652-e01f617fa284) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 47cc510e-481f-4b1a-9652-e01f617fa284:8efb6d09b12a40558f507a7fd9a6a1b7
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 5a39885e-b3fc-4062-b555-3d199ad8b28b) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 5a39885e-b3fc-4062-b555-3d199ad8b28b:4ab32a70af5f4ba68ea90f5c458bb2cf
+[NotebookApp | INFO] Starting buffering for 47cc510e-481f-4b1a-9652-e01f617fa284:8efb6d09b12a40558f507a7fd9a6a1b7
+[NotebookApp | INFO] Starting buffering for 5a39885e-b3fc-4062-b555-3d199ad8b28b:4ab32a70af5f4ba68ea90f5c458bb2cf
+[NotebookApp | INFO] 302 GET /notebooks/img/cell_toolbar.png (192.168.10.93) 0.68ms
+[NotebookApp | INFO] 302 GET /notebooks/img/nbgrader_cell.png (192.168.10.93) 0.66ms
+[NotebookApp | INFO] 302 GET /notebooks/img/test_error.png (192.168.10.93) 1.42ms
+[NotebookApp | INFO] 302 GET /notebooks/img/lock.png (192.168.10.93) 1.42ms
+[NotebookApp | INFO] 302 GET /notebooks/img/feedback.png (192.168.10.93) 0.64ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-next.png (192.168.10.93) 0.87ms
+[NotebookApp | INFO] 302 GET /notebooks/img/embed_code.png (192.168.10.93) 1.42ms
+[NotebookApp | INFO] 302 GET /notebooks/img/generate_link.png (192.168.10.93) 1.36ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-code.png (192.168.10.93) 1.35ms
+[NotebookApp | INFO] 302 GET /notebooks/img/visualizer-button.png (192.168.10.93) 1.37ms
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 47cc510e-481f-4b1a-9652-e01f617fa284) to 5.3 (client).
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 5a39885e-b3fc-4062-b555-3d199ad8b28b) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 5a39885e-b3fc-4062-b555-3d199ad8b28b:d85053734d494624bdbd17012b85caa6
+[NotebookApp | INFO] Starting buffering for 47cc510e-481f-4b1a-9652-e01f617fa284:6db3b5d5b3d24b5688a6f28ff317b8ec
