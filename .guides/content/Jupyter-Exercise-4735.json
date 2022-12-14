@@ -1,0 +1,21 @@
+{
+	"id": "4735e557-079a-6590-878e-fc2366697766",
+	"title": "Jupyter Exercise",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "simple.ipynb",
+			"action": "open"
+		}
+	],
+	"path": [],
+	"contentType": "markdown",
+	"type": "page",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "2-panels"
+}
