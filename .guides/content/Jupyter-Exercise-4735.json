@@ -8,6 +8,7 @@
 		},
 		{
 			"path": "simple.ipynb",
+			"panel": 0,
 			"action": "open"
 		}
 	],
