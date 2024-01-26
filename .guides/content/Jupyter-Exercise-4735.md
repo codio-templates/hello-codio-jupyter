@@ -17,7 +17,7 @@ In the instructions above it tells students how to "Mark as Uncompleted", instru
 ## Save your work
 
 Before marking your work as complete - Save and checkpoint
-![.guides/img/checkpoint](.guides/img/checkpoint.png)
+![Students can save their work by clicking on the icon that looks like a disk. It is the left most icon in the icon bar, underneath the file menu.](.guides/img/checkpoint.png)
 
 |||
 

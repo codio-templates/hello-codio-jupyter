@@ -6,7 +6,7 @@ General instructions for creating projects/assignments in Codio may be found [he
 
 You can use the **Jupyter Starting Point**, the included technology [stack](https://docs.codio.com/develop/develop/stacks/stacks.html#stacks) contains the software you need for Jupyter Notebooks and nbgrader.
 
-![Dialog for creating an assignment](.guides/img/jupyterstart.png)
+![In the dialog for creating an assignment you will click on the tab that says Jupyter Starting point and type the name of the project in the name field](.guides/img/jupyterstart.png)
 
 To inform Codio that you will be using nbgrader you must have a file name `.codio-jupyter` in your file tree, more information [here](https://docs.codio.com/instructors/teaching/grading/nbgrader.html#auto-grade-with-nbgrader). When a student marks their work as complete the Jupyter Notebook is sent to nbgrader for autograding. As you will see in the setup on the next page, it is prudent to tell students to **Save and Checkpoint** their work before they mark as complete to prevent timing issues that can occur when accessing the Jupyter Notebook server.
 
@@ -20,7 +20,7 @@ You can use Codio guides to auto-open your Jupyter Notebook assignment. The next
 1. Drag your Jupyter file into the **Open Tabs** field or click Add Tab and enter the Jupyter Notebook name.
 1. Click **Save and Close Settings**
 
-![Configuration of layout](.guides/img/layout.png)
+![The Layout button is in the upper right hand corner. You select the number of panels from the dropdown underneath the layout tag. The file you dragged into the open tabs field will display in that section of the dialog. The Save and Close Settings button is in the lower left corner, to the right of the cancel button.](.guides/img/layout.png)
 
 
 ### Collapsing the Guide on open
@@ -30,7 +30,7 @@ If you prefer for the guide page to be collapsed when the student opens the assi
 1. Toggle **Collapsed on Start**
 1. Click **Save and Close Settings**
 
-![Setting up collapse on start](.guides/img/collapse.png)
+![The settings button is in the upper right corner of the display to the right of the Layout button. The Collapsed on Start button is the third button down in the right section of the dialog. The Save and Close Settings button is in the lower left corner, to the right of the cancel button.](.guides/img/collapse.png)
 
 ### Manually grading Jupyter Notebooks
 If you want to manually grade a Jupyter Notebook you can turn on Teacher grading in [Grade Weights](https://docs.codio.com/instructors/setupcourses/assignment-settings/grade-weights.html#grade-weights) and then open student projects to [view their work](https://docs.codio.com/instructors/teaching/viewstudentwork.html#viewing-student-work).
@@ -41,8 +41,8 @@ If you want to manually grade a Jupyter Notebook you can turn on Teacher grading
 When you are editing your Jupyter assignment you can see solutions and hidden tests (first image) but when your students open the assignment, they will not see those things (second image).
 
 ## Teacher view of a Jupyter Notebook
-![Teacher view of a Jupyter assignment](.guides/img/jupyterteacher.png)
+![The teacher view of a Jupyter Notebook shows the solution along with all the tests including the hidden ones.](.guides/img/jupyterteacher.png)
 
 
 ## Student view of a Jupyter Notebook
-![Student view of a Jupyter assignment](.guides/img/jupyterstudent.png)
+![In the student view of a Jupyter assignment the solution is replaced with text that reads "Your Code Here". The student can only see the visible tests.](.guides/img/jupyterstudent.png)
