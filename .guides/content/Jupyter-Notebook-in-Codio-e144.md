@@ -4,23 +4,23 @@
 
 General instructions for creating projects/assignments in Codio may be found [here](https://docs.codio.com/develop/develop/projects/create-import-project.html#create-or-import-a-project). 
 
-You can use the **Jupyter Starting Point**, the included technology [stack](https://docs.codio.com/develop/develop/stacks/stacks.html#stacks) contains the software you need for Jupyter Notebooks and nbgrader.
+You can use the **Jupyter Starting Point**, the included technology [stack](https://docs.codio.com/develop/develop/stacks/stacks.html#stacks) contains the software you need for Jupyter labs.
 
-![In the dialog for creating an assignment you will click on the tab that says Jupyter Starting point and type the name of the project in the name field](.guides/img/jupyterstart.png)
+![In the dialog for creating an assignment you will click on the tab that says Jupyter Starting point and type the name of the lab file in the name field](.guides/img/jupyterstart.png)
 
 To inform Codio that you will be using nbgrader you must have a file name `.codio-jupyter` in your file tree, more information [here](https://docs.codio.com/instructors/teaching/grading/nbgrader.html#auto-grade-with-nbgrader). When a student marks their work as complete the Jupyter Notebook is sent to nbgrader for autograding. As you will see in the setup on the next page, it is prudent to tell students to **Save and Checkpoint** their work before they mark as complete to prevent timing issues that can occur when accessing the Jupyter Notebook server.
 
 
 ### Auto-opening the Jupyter Notebook
 
-You can use Codio guides to auto-open your Jupyter Notebook assignment. The next page is an example lesson that is set up as below. There is also some "teacher only" information on the page. To see that information you need to [view it as a teacher](https://docs.codio.com/instructors/setupcourses/preview-course.html#preview-assignment-as-teacher).
+You can use Codio guides to auto-open Jupyter Lab. The next page is an example lesson that is set up as below. There is also some "teacher only" information on the page. To see that information you need to [view it as a teacher](https://docs.codio.com/instructors/setupcourses/preview-course.html#preview-assignment-as-teacher).
 
-1. Select **Layout**
-1. Create a **2 Panel** layout
-1. Drag your Jupyter file into the **Open Tabs** field or click Add Tab and enter the Jupyter Notebook name.
-1. Click **Save and Close Settings**
+1. Select **Layout**.
+1. Create a **2 Panels** layout.
+1. In the tabs field you select the JupyterLab type and enter your file name.
+1. Click **Save and Close Settings**.
 
-![The Layout button is in the upper right hand corner. You select the number of panels from the dropdown underneath the layout tag. The file you dragged into the open tabs field will display in that section of the dialog. The Save and Close Settings button is in the lower left corner, to the right of the cancel button.](.guides/img/layout.png)
+![The layout to select has two panels and in the tab section you select the Jupyter lab type and enter the file name.](.guides/img/jupyterlab.png)
 
 
 ### Collapsing the Guide on open

@@ -7,7 +7,8 @@
 			"action": "close"
 		},
 		{
-			"path": "simple.ipynb",
+			"path": "#jupyter-lab: simple.ipynb",
+			"panel": 0,
 			"action": "open"
 		}
 	],

@@ -1,7 +1,12 @@
 {
 	"id": "e144ad44-920a-0d89-f9b3-c9d739b102e2",
 	"title": "Jupyter Notebook in Codio",
-	"files": [],
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
 	"path": [],
 	"contentType": "markdown",
 	"type": "page",
